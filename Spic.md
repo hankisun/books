@@ -116,3 +116,67 @@
 | I'm trying to tell you something important Don't interrupt me | 너한테 할 중요한 얘기가 있어 말 끊지 말아줘 |
 | Stop bothering me                                             | 귀찮게 하지 마                  |
 | It's a bother                                                 | 그거 너무 귀찮아                 |
+### expect / look forward to
+- expext 내다보다, 예상하다
+- look forward to 기다리고 기대함
+
+| Eng                                              | Kor                 |
+| ------------------------------------------------ | ------------------- |
+| I am expecting a baby in March                   | 3월에 출산 예정이에요        |
+| I am looking forward to meeting you this weekend | 이번주 너 만나는 거 너무 기대돼! |
+| I can't wait to see you this weekend             |                     |
+| He's been looking forward to being a father      | 그는 항상 아빠가 되고 싶어 했어  |
+| I didn't expect you to come today                | 네가 오늘 올 거라 생각 못했어   |
+### break / rest
+- break 깨부수다, 깨뜨리다, 시간을 쪼개서 잠시 쉼
+- rest 육체적 정신적으로 완전히 푹 쉬는 느낌 get some rest, take a rest
+- relax 즐기는 일을 하며 느긋하게 쉼
+
+| Eng                                            | Kor                    |
+| ---------------------------------------------- | ---------------------- |
+| Let's take a coffee break                      | 커피 마시면서 잠깐 쉬자          |
+| You should go get some rest                    | 이제 좀 푹 쉬어              |
+| I'm going to work out during my lunch break    | 점심시간에 잠깐 운동하러 갈게요      |
+| You worked so hard all day long. Get some rest | 오늘 종일 열심히 일했어. 이제 좀 쉬어 |
+
+### guess / suppose
+- guess 추측하다 추정하다 (충분한 정보 없이 어림잡아)
+- suppose 정보와 사실에 기반하여 추측하다, 가정하다
+- be supposed to 자신이 갖고 있는 정보/사실에 기반하여 ~ 하기로 되어 있다
+
+| Eng                                 | Kor                  |
+| ----------------------------------- | -------------------- |
+| I guess he is on his way            | 지금쯤 오고 있을 것 같은데      |
+| I suppose she is busy at the moment | 그녀는 오늘도 바쁠 것 같은데     |
+| I guess she knows my phone number   | 그녀가 내 번호를 갖고 있을 것 같아 |
+| She is supposed to come by 2        | 그녀가 2시까지 오기로 되어 있는데  |
+| You are not supposed to be here     | 너 여기 있으면 안되잖아        |
+### believe / trust
+- believe 사실 여부 관계에 대해 믿는다
+- trust 신용과 믿음을 갖고 있다는 뜻. 신뢰한다
+- believe in 존재를 믿다
+
+| Eng                                             | Kor                     |
+| ----------------------------------------------- | ----------------------- |
+| I trust her completely                          | 난 그녀를 완전히 신뢰해           |
+| I believe you                                   | 네 말이 사실일 거라고 믿어         |
+| I trust you                                     | 나는 너를 신뢰해               |
+| I can't believe that you've been cheating on me | 네가 계속 바람을 피웠다니 믿을 수가 없다 |
+| I trust that he won't cheat on me               | 그는 날 두고 바람을 피우지 않을 거야   |
+| I believe in God                                | 나는 신의 존재를 믿어            |
+| I don't believe in ghosts                       | 난 귀신의 존재를 믿지 않아         |
+
+### admit / recognize
+- admit 자신의 한 일에 대해 인정하다(잘못, 실수 등)
+- recognize 알아보다, 성취를 인정해주다(수동태로: 인정을 받다)
+- I have to admit (that) ~ 인정하지 않을 수 없다(솔직히 말해서)
+
+| Eng                                                  | Kor                    |
+| ---------------------------------------------------- | ---------------------- |
+| I admit it. It was my fault                          | 그래 인정해. 내 잘못이야         |
+| I couldn't recognize you at first                    | 나 처음에 너 못알아봤어          |
+| We tried to get him admit his fault                  | 우리는 그 사람이 잘못을 시인하도록 했어 |
+| People want to be recognized for their achievement   | 사람들은 성취를 인정받고 싶어 하지    |
+| It's important to get some recognition from the boss | 사장님께 인정받는 건 중요하지       |
+| I have to admit that I was jealous                   | 솔직히 말해서 좀 질투가 났지       |
+
