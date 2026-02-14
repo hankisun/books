@@ -27,7 +27,7 @@
 | I work out every Monday to stay fit                     | 나는 건강한 몸매를 유지하기 위해 매주 월욜마다 운동해요 |
 | It didn't work out                                      | 해결이 안됐어                         |
 ### make - 노력 움직임을 더해 결과 만들어 내는 것
-| Kor                              | Eng                 |
+| Eng                              | Kor                 |
 | -------------------------------- | ------------------- |
 | That makes sense                 | 그거 말 된다             |
 | Hey don't make a fuss            | 호들갑 좀 떨지마           |
